@@ -85,11 +85,12 @@ Train MSE:  50227300.581849806<br/>
 Test MSE:  50971358.99088974<br/>
 
 ### Grid search for alpha and ridge regression:<br/>
-Alpha=0.1<br/>
+Alpha=10.0<br/>
 Train MSE:  47757356.46<br/>
 Test MSE:  48601731.18<br/>
 
 ### Grid search for and lasso regression:<br/>
+Alpha=0.1<br/>
 Train MSE:  88731669.29<br/>
 Test MSE:  89704552.25<br/>
 Top 6 features:	year	condition	fuel	odometer	transmission	drive<br/>
